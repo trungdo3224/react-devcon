@@ -10,6 +10,8 @@ Demo App: https://react-devcon.herokuapp.com/
     "githubClientId" : "",
     "githubSecret": ""
 }`
+
+### At root folder run:
 #### `npm i`
 #### `cd client`
 #### `npm i`
